@@ -20,7 +20,7 @@ This will upload the file.txt to blockchain, it takes about 20 minutes (or about
 
 However, sometimes it can take even longer, probably based on how willing are other nodes in the network. 
 
-(Right now, I am trying to upload these scripts themselves to blockchain. I am now waiting 1 hour for even the name_new operation to appear in the blockchain. Is it possible that the miners blacklisted me now? Hm, we will see. Well, it is simply *nightmaringlishly* slow :) )
+(Right now, I am trying to upload these scripts themselves to blockchain. I am now waiting 1 hour for even the name_new operation to appear in the blockchain. Is it possible that the miners blacklisted me now? Hm, we will see. Maybe it's because they are "fresh" namecoins? Well, it is simply *nightmaringlishly* slow :) )
 
 Don't upload bigger files than few bytes/kilobytes though; read further why.
 
@@ -31,6 +31,8 @@ This reliably works only on linux with base64 program installed (you should have
 You need to install namecoin first and then let it update to the latest block in blockchain. You can read the instructions on namecoin website - http://dot-bit.org/InstallAndConfigureNamecoin . You have to have namecoind running.
 
 You also need buy some namecoins - they are now for basically free on https://exchange.bitparking.com/ , altough the price may change. 100 NMC for some basic experimentation is more than enough.
+
+The namecoins should also be confirmed enough for miners to take them, so make that another few hours.
 
 You need to set NAMECOIN_PATH env value to the path where namecoind is located; I do it usually like this
     
