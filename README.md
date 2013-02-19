@@ -30,7 +30,7 @@ This reliably works only on linux with base64 program installed (you should have
 
 You need to install namecoin first and then let it update to the latest block in blockchain. You can read the instructions on namecoin website - http://dot-bit.org/InstallAndConfigureNamecoin .
 
-You also need buy some namecoins - they are now for basically free on https://exchange.bitparking.com/ , altough the price may change.
+You also need buy some namecoins - they are now for basically free on https://exchange.bitparking.com/ , altough the price may change. 100 NMC for some basic experimentation is more than enough.
 
 You need to set NAMECOIN_PATH env value to the path where namecoind is located; I do it usually like this
     
