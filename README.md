@@ -1,7 +1,7 @@
 Uploading files into namecoin blockchain
 ==============
 
-Do you want to host your files of any legality (almost) anonymously and more importantly, for absolutely forever with no feasible way to delete them? (Even when the upload is `nightmaringlishly` slow?)
+Do you want to host your files of any legality (almost) anonymously and more importantly, for absolutely forever with no feasible way to delete them? (Even when the upload is *nightmaringlishly* slow?)
 
 Upload them to namecoin blockchain!
 
