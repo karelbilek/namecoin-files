@@ -74,6 +74,9 @@ Of course there are downsides - first, the file is in the blockchain :), so you 
 
 Second - it's not for free. And I can imagine that - if this becomes popular, the cost of the needed fees will be non-trivial.
 
+Why not a separate blockchain?
+-----------------
+Why do I litter namecoin blockchain instead of creating a fork? Well, that is a good question, but I would need to solve issues like IRC bootstraping and getting people to actually mine coins, so no, that's not going to work.
 
 About the code, about me
 ------------------
