@@ -20,7 +20,7 @@ This will upload the file.txt to blockchain, it takes about 20 minutes (or about
 
 However, sometimes it can take even longer, probably based on how willing are other nodes in the network. 
 
-(Right now, I am trying to upload these scripts themselves to blockchain. I am now waiting 1 hour for even the name_new operation to appear in the blockchain. Is it possible that the miners blacklisted me now? Hm, we will see. It is simply slow. :) )
+(Right now, I am trying to upload these scripts themselves to blockchain. I am now waiting 1 hour for even the name_new operation to appear in the blockchain. Is it possible that the miners blacklisted me now? Hm, we will see. Well, it is simply *nightmaringlishly* slow :) )
 
 Don't upload bigger files than few bytes/kilobytes though; read further why.
 
