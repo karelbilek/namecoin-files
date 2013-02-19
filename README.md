@@ -43,7 +43,7 @@ WARNING
 ==============
 Uploading works reliably **ONLY** on smaller files.
 
-Probably because I am abusing namecoind for something it is not meant to do :), for bigger files, it takes **ages** doing god-knows-what on bigger files.
+Probably because I am abusing namecoind for something it is not meant to do :), for bigger files, it takes **ages** doing god-knows-what on bigger files. (Bigger meaning bigger than about 50 kB.)
 
 In short, when presented with 5 thousand name_firstupdate operations at the same time, `namecoind` starts to take inappropriate amount of resources and starts to be *really, really slow*.
 
