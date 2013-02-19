@@ -28,7 +28,7 @@ Installation
 -------------
 This reliably works only on linux with base64 program installed (you should have it though) and with perl installed. It can probably run on other unix-like systems and cygwin, I have no idea though.
 
-You need to install namecoin first and then let it update to the latest block in blockchain. You can read the instructions on namecoin website - http://dot-bit.org/InstallAndConfigureNamecoin .
+You need to install namecoin first and then let it update to the latest block in blockchain. You can read the instructions on namecoin website - http://dot-bit.org/InstallAndConfigureNamecoin . You have to have namecoind running.
 
 You also need buy some namecoins - they are now for basically free on https://exchange.bitparking.com/ , altough the price may change. 100 NMC for some basic experimentation is more than enough.
 
