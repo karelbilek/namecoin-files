@@ -5,6 +5,8 @@ Do you want to host your files of any legality (almost) anonymously and more imp
 
 Upload them to namecoin blockchain!
 
+(discussion here https://bitcointalk.org/index.php?topic=145278.0 )
+
 Usage
 -------------
 
