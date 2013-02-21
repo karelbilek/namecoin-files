@@ -26,6 +26,10 @@ However, sometimes it can take even longer, probably based on how willing are ot
 
 Don't upload bigger files than few bytes/kilobytes though; read further why.
 
+If you want to see all the files saved currently in blockchain, just run
+
+      (path to namecoind)/namecoind name_filter '^fb/*'
+
 Installation
 -------------
 This reliably works only on linux with base64 program installed (you should have it though) and with perl installed. It can probably run on other unix-like systems and cygwin, I have no idea though.
