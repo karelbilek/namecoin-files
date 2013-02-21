@@ -28,7 +28,7 @@ Don't upload bigger files than few bytes/kilobytes though; read further why.
 
 If you want to see all the files saved currently in blockchain, just run
 
-      (path to namecoind)/namecoind name_filter '^fb/*'
+      ./grep_names.sh
 
 Installation
 -------------
